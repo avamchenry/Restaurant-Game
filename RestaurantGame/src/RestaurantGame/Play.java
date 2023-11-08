@@ -32,7 +32,7 @@ public class Play {
             System.out.println("6. End game");
             System.out.println("7. View instructions");
 
-            int option = scanner.nextInt(); //test
+            int option = scanner.nextInt(); //test1
 
             switch (option) {
                 case 1:
