@@ -1,4 +1,4 @@
-package RestaurantGame;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,7 +32,7 @@ public class Play {
             System.out.println("6. End game");
             System.out.println("7. View instructions");
 
-            int option = scanner.nextInt();
+            int option = scanner.nextInt(); //test
 
             switch (option) {
                 case 1:
