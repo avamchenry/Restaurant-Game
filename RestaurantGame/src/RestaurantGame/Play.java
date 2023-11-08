@@ -23,7 +23,7 @@ public class Play {
         menuItems.add("Water");
 
         while (true) {
-            System.out.println("Server Game Options:");
+            System.out.println("Server Game Options:");//Homework Comment
             System.out.println("1. Open a new table");
             System.out.println("2. Serve a table");
             System.out.println("3. Close a table");
